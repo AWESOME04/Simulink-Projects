@@ -1,5 +1,7 @@
 # Simulink and Data Communications Coursework Repository
 
+![what_is_communication_in_computer_network](https://github.com/AWESOME04/Simulink-Projects/assets/102630199/1300ea34-24c4-4a6b-b553-19f76e2168ee)
+
 This repository is a collection of projects and assignments related to Simulink and Data Communications. It serves as a resource for studying and practicing the concepts covered in an online ORAMP course as well as Data Communications coursework for a college program.
 
 In this repository, you will find various Simulink projects that demonstrate different aspects of system modeling and simulation using Simulink. These projects cover topics such as signal processing, control systems, communication systems, and more. They aim to provide hands-on experience and practical understanding of Simulink's capabilities.
